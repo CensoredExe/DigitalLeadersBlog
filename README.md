@@ -7,4 +7,4 @@ Gitignore stops the database connection info from being uploaded for security re
 Create a file in the /includes directory and define mysqli_connect() to be your database information.
 
 # Development
-Developed in PHP, Using Sass and MySQLi
+Developed in PHP, Using Sass and MySQLi - I recommend xampp for a local server
