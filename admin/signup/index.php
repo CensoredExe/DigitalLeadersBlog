@@ -21,13 +21,13 @@
     <nav>
         <div class="row">
             <div class="logo-hold">
-                <p class="logo">Digital Leaders</p>
+                <a href="../../" class="logo">Digital Leaders</a>
             </div>
 
             <ul class="items-hold">
                 <li class="list-li"><a href="#" class="list-a">SBHS</a></li>
                 <li class="list-li"><a href="#" class="list-a">FAQ</a></li>
-                <li class="list-li"><a href="#" class="list-a">Login</a></li>
+                <li class="list-li"><a href="../login/" class="list-a">Login</a></li>
             </ul>
         </div>
     </nav>

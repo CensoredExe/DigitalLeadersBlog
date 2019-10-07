@@ -35,6 +35,7 @@ header nav .logo-hold {
 header nav .logo {
   display: inline-block;
   color: #fff;
+  text-decoration: none;
 }
 
 header nav .items-hold {
